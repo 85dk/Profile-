@@ -1,5 +1,5 @@
 # 💫 About Me:
-Money management system <br>Student at SNGIST GROUP OF INSTITUTIONS <br>5th year INMCA <br>Flutter 
+Money management system <br>Student at SNGIST GROUP OF INSTITUTIONS <br>5th year INMCA <br>Flutter(Beginner level)<br>
 
 
 # 💻 Tech Stack:
